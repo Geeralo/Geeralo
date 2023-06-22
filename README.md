@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on laravel based apps<br>👯 I’m looking to collaborate on interesting open source projects<br>🌱 I’m currently learning reactJS<br>💬 Ask me about anything u want<br>⚡ Fun fact im engineer with humanist soul
+🔭 I’m currently working on .NET/C# based apps<br>👯 I’m looking to collaborate on interesting open source projects<br>🌱 I’m currently learning reactJS<br>💬 Ask me about anything u want<br>⚡ Fun fact im engineer with humanist soul
 
 
 ## 🌐 Socials:
